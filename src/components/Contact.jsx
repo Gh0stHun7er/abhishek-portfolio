@@ -4,7 +4,7 @@ import { Mail, Github, Linkedin, Instagram, Phone } from 'lucide-react'
 const contacts = [
   { icon: Mail, label: 'Email', value: 'achouhan3848@gmail.com', link: 'mailto:achouhan3848@gmail.com' },
   { icon: Phone, label: 'Phone', value: 'Call Me', link: 'tel:+91706162762' },
-  { icon: Github, label: 'GitHub', value: 'GitHub', link: 'https://github.com/achouhan3848-tech' },
+  { icon: Github, label: 'GitHub', value: 'GitHub', link: 'http://github.com/Gh0stHun7er/' },
   { icon: Linkedin, label: 'LinkedIn', value: 'LinkedIn', link: 'https://www.linkedin.com/in/abhishek-chouhan-826a05389' },
   { icon: Instagram, label: 'Instagram', value: 'Instagram', link: 'https://www.instagram.com/abhi.codex.01/' },
 ]
