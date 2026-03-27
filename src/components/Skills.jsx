@@ -9,8 +9,10 @@ const skills = [
   { name: 'Tailwind CSS', icon: simpleIcons.siTailwindcss },
   { name: 'Python', icon: simpleIcons.siPython },
   { name: 'Django', icon: simpleIcons.siDjango },
+  { name: 'mySQL', icon: simpleIcons.siMysql },
   { name: 'Git', icon: simpleIcons.siGit },
   { name: 'GitHub', icon: simpleIcons.siGithub },
+  { name: 'Kali Linux', icon: simpleIcons.siLinux },
 ]
 
 const Skills = () => {

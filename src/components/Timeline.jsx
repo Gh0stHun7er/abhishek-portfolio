@@ -10,7 +10,7 @@ const timelineItems = [
   {
     title: 'Practical Web Application Development',
     role: 'Front-End Engineering',
-    description: 'Built multiple hands-on projects including a modern authentication UI, a QR code generation tool, and a front-end website clone. Gained experience in UI structuring, component-based layouts, and user-centric design.'
+    description: 'Built multiple hands-on projects including a modern authentication UI, a QR code generation tool, and a front-end website. Gained experience in UI structuring, component-based layouts, and user-centric design.'
   },
   {
     title: 'Cyber Security Fundamentals',

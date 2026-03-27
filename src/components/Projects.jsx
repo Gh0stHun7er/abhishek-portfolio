@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { ExternalLink } from 'lucide-react'
 
 const projects = [
+  
   // {
   //   title: 'Modern Login Page',
   //   description: 'In this project, I designed a modern and responsive login page with a clean and user-friendly interface. It includes well-structured input fields and basic form validation. This project demonstrates my understanding of UI design principles and front-end development basics.',

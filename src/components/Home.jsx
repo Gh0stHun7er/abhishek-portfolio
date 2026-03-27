@@ -14,7 +14,7 @@ const Home = ({ setActiveSection }) => {
             Hi, I'm <span className="text-blue-500">Abhishek</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-700 mb-6 dark:text-gray-300">
-            Frontend Developer | Python & DSA Learner | Future Ethical Hacker
+             Python & Django Developer | Web Developer | Future Ethical Hacker
           </p>
           <p className="text-lg text-gray-600 mb-8 dark:text-gray-400">
             Web development & cyber security
