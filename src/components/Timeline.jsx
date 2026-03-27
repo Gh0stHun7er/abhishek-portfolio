@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import { motion } from 'framer-motion'
 
 const timelineItems = [
@@ -33,7 +34,7 @@ const Timeline = () => {
           transition={{ duration: 0.6 }}
           className="text-3xl md:text-4xl font-bold text-center mb-12 text-black dark:text-white"
         >
-          🕒 Learning & Technical Journey
+          Learning & Technical Journey
         </motion.h2>
         <div className="relative">
           <div className="absolute left-8 top-0 bottom-0 w-0.5 bg-blue-500"></div>

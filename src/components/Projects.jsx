@@ -1,29 +1,37 @@
+// eslint-disable-next-line no-unused-vars
 import { motion } from 'framer-motion'
 import { ExternalLink } from 'lucide-react'
 
 const projects = [
-  {
-    title: 'Modern Login Page',
-    description: 'In this project, I designed a modern and responsive login page with a clean and user-friendly interface. It includes well-structured input fields and basic form validation. This project demonstrates my understanding of UI design principles and front-end development basics.',
-    tech: ['HTML', 'CSS', 'JS', 'REACT.js'],
-    tags: ['Front-End Web Development', 'UI/UX Design Basics']
-  },
-  {
-    title: 'QR Code Generator',
-    description: 'This project generates a QR code for any given URL. Users can enter a URL and instantly receive a QR code output. Through this project, I learned dynamic data handling and how to build practical web-based tools.',
-    tech: ['HTML', 'CSS', 'JS', 'REACT.js'],
-    tags: ['Front-End Web Development', 'UI/UX Design Basics']
-  },
+  // {
+  //   title: 'Modern Login Page',
+  //   description: 'In this project, I designed a modern and responsive login page with a clean and user-friendly interface. It includes well-structured input fields and basic form validation. This project demonstrates my understanding of UI design principles and front-end development basics.',
+  //   tech: ['HTML', 'CSS', 'JS', 'REACT.js'],
+  //   tags: ['Front-End Web Development', 'UI/UX Design Basics']
+  // },
+  // {
+  //   title: 'QR Code Generator',
+  //   description: 'This project generates a QR code for any given URL. Users can enter a URL and instantly receive a QR code output. Through this project, I learned dynamic data handling and how to build practical web-based tools.',
+  //   tech: ['HTML', 'CSS', 'JS', 'REACT.js'],
+  //   tags: ['Front-End Web Development', 'UI/UX Design Basics']
+  // },
+  
   {
     title: 'Amazon Website Clone',
     description: 'In this project, I created a front-end clone of the Amazon website. It replicates the homepage layout, product sections, and navigation structure. This project highlights my skills in layout design, responsiveness, and real-world website structure.',
-    tech: ['HTML', 'CSS', 'JS', 'REACT.js'],
+    tech: ['HTML', 'CSS', 'JS',],
+    tags: ['Front-End Web Development', 'UI/UX Design Basics']
+  },
+   {
+    title: 'JIT-College-Website',
+    description: 'In this project, I created a front-end clone of the JIT College website. It replicates the homepage layout, product sections, and navigation structure. This project highlights my skills in layout design, responsiveness, and real-world website structure.',
+    tech: ['HTML', 'tailwindCSS', 'JS', 'REACT.JS'],
     tags: ['Front-End Web Development', 'UI/UX Design Basics']
   },
   {
     title: 'Personal Portfolio Website',
     description: 'This is my personal portfolio website where I showcase my skills, projects, and basic profile information. The main purpose of this project is to present my work in a professional and organized manner. It reflects my self-branding skills and overall web development knowledge.',
-    tech: ['HTML', 'CSS', 'JS', 'REACT.js'],
+    tech: ['HTML', 'tailwindCSS', 'JS', 'REACT.JS'],
     tags: ['Front-End Web Development', 'UI/UX Design Basics']
   }
 ]
